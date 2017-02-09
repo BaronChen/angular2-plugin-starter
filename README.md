@@ -17,7 +17,7 @@ Run test:
 npm test
 ```
 
-build app:
+build plugin to dist folder:
 ```sh
 npm run build
 ```
